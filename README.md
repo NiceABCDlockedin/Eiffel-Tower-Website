@@ -13,7 +13,7 @@
 * ```tour_eiffel.jpg``` — Historical photograph of the tower under construction in 1888.
 
 ## How to View
-* You can use GitHub Pages to view the website, or:
+* You can use GitHub Pages to view the website at https://niceabcdlockedin.github.io/Eiffel-Tower-Website/, or:
         Download or clone all three files into the same folder.
         Open ```eiffel-tower.html``` in any web browser.
 
