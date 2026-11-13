@@ -2,7 +2,7 @@
 * A simple informational webpage about the history and construction of the Eiffel Tower. This repository serves as an archive of my very first hands-on experience learning front-end web development with HTML and CSS.
 
 ## What I Practiced
-* HTML Structure: Organizing content using headings (<h1>–<h3>), paragraphs, ordered lists (<ol>), and unordered lists (<ul>).
+* HTML Structure: Organizing content using headings (```<h1>–<h3>```), paragraphs, ordered lists (```<ol>```), and unordered lists (```<ul>```).
 * External CSS Styling: Linking an external stylesheet (styles.css) to manage typography, color palettes, borders, and spacing.
 * Responsive Design: Implementing CSS @media queries to adapt the layout for smaller viewports such as tablets.
 * Media & Links: Embedding historical photography and linking to external video resources.
